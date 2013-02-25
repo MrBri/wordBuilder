@@ -18,7 +18,7 @@ Comment and uncomment sections as necessary.
 // };
 
 
-//Using shared methods with gobal function ================
+//Using shared methods with global function ================
 
 var makeWord = function(word) {
   return {
@@ -89,7 +89,7 @@ var removeLetters = function(count) {
 // using _.extend ===========================================
 
 // var makeWord = function(word) {
-//   wordObj = {
+//   var wordObj = {
 //     word: word,
 //     letters: word.length,
 //     addLetters: function(letter){
